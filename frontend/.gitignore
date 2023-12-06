@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+.DS_Store
+
+# Environment variables
+.env
+
+# Production
+/build
+
+# Misc
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
